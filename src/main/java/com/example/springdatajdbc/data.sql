@@ -1,0 +1,2 @@
+INSERT INTO account123 VALUES (123, 'Jane', 1000);
+INSERT INTO account123 VALUES (124, 'John', 1000);
